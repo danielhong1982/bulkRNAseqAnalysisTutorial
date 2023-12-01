@@ -43,8 +43,8 @@ This project is licensed under the [License Name] - see the `LICENSE` file for d
 
 Provide contact information for the project maintainers and contributors.
 
-- Project Maintainer: [Name] - email@example.com
-- GitHub: @username
+- Project Maintainer: [Bong-Ki Hong] - daniel.bongki.hong@google.com
+- GitHub: @danielhong1982
 
 ## Acknowledgments
 
